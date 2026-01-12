@@ -7,8 +7,8 @@ The **arduino-lcd-shield** is a custom-designed Arduino Uno shield featuring a 1
 
 ## Project Media
 <p align="center">
-  <img src="media/pcb_assembled_working.png" height="300" />
-  <img src="media/pcb_front_unassembled.png" height="300" />
+  <img src="media/pcb_assembled_working.png" height="250" />
+  <img src="media/pcb_front_unassembled.png" height="250" />
 </p>
 
 ---
